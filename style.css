@@ -124,9 +124,7 @@
 }
 .main3{
     background-image: url(/assets/Rectangle\ 15.png);
-    object-fit: contain;
-    width: 100%;
-    height: 737px;
+    object-fit: cover;
 }
 .main3>div{
   background: none;
